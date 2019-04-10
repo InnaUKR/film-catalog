@@ -1,0 +1,17 @@
+.mat-card {
+  padding: 0 !important;
+}
+
+.mat-card-header {
+  padding: 24px 16px 16px !important;
+}
+
+.mat-card-content {
+  font-size: 14px;
+  margin: 0px !important;
+  padding: 16px !important;
+}
+
+img.mat-card-image{
+  margin: 0 !important;
+}
